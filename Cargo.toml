@@ -1,0 +1,8 @@
+[package]
+name = "callback-cell"
+version = "0.0.0-AFTER"
+edition = "2021"
+authors = ["Phoenix Kaho <kahlo.phoenix@gmailo.com>"]
+description = "Like an Atomic<Option<Box<FnOnce()>>>"
+
+[dependencies]
