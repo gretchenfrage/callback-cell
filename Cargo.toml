@@ -4,6 +4,10 @@ version = "0.0.0-AFTER"
 edition = "2021"
 authors = ["Phoenix Kahlo <kahlo.phoenix@gmail.com>"]
 description = "Like an Atomic<Option<Box<FnOnce()>>>"
+readme = "README.md"
+repository = "https://github.com/gretchenfrage/callback-cell"
+categories = ["concurrency"]
+license = "MIT"
 
 [dependencies]
 
