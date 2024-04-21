@@ -33,7 +33,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "callback-cell"
+name = "callback_cell"
 version = "0.0.0-AFTER"
 dependencies = [
  "crossbeam",
