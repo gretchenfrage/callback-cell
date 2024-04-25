@@ -1,6 +1,6 @@
 [package]
 name = "callback_cell"
-version = "0.0.0-AFTER"
+version ="0.1.0"
 edition = "2021"
 authors = ["Phoenix Kahlo <kahlo.phoenix@gmail.com>"]
 description = "Like an Atomic<Option<Box<FnOnce()>>>"
